@@ -1,6 +1,9 @@
 /**
  * Programming Scala: Tackle Multi-Core Complexity on the Java Virtual Machine
  * by Venkat Subramaniam
+ * 
+ * Modified by Nick Abbruzzese for Ron Coleman's Network Programming in Scala Course
+ * Marist College, Spring 2013
  */
 import scala.collection.mutable.HashMap
 import scala.io.Source
