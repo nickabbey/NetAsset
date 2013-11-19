@@ -1,0 +1,25 @@
+<!--
+ ! Excerpted from "Programming Scala",
+ ! published by The Pragmatic Bookshelf.
+ ! Copyrights apply to this code. It may not be used to create training material, 
+ ! courses, books, articles, and the like. Contact us if you are in doubt.
+ ! We make no guarantees that this code is fit for any purpose. 
+ ! Visit http://www.pragmaticprogrammer.com/titles/vsscala for more book information.
+-->
+<symbols sort="true">
+  <symbol ticker="AAPL"><units>200</units><name>Apple Inc.</name></symbol>
+  <symbol ticker="ADBE"><units>125</units><name>Adobe Systems Inc.</name></symbol>
+  <symbol ticker="ALU"><units>150</units><name>Alcatel-Lucent, S.A.</name></symbol>
+  <symbol ticker="AMD"><units>150</units><name>Advanced Micro Devices, Inc.</name></symbol>
+  <symbol ticker="CSCO"><units>250</units><name>Cisco Systems, Inc.</name></symbol>
+  <symbol ticker="HPQ"><units>225</units><name>Hewlett-Packard Company</name></symbol>
+  <symbol ticker="IBM"><units>215</units><name>International Business Machines, Inc.</name></symbol>
+  <symbol ticker="INTC"><units>160</units><name>Intel Corporation</name></symbol>
+  <symbol ticker="MSFT"><units>190</units><name>Microsoft Corp.</name></symbol>
+  <symbol ticker="NSM"><units>200</units><name>Nationstar Mortgage Holdings Inc.</name></symbol>
+  <symbol ticker="ORCL"><units>200</units><name>Oracle Corp</name></symbol>
+  <symbol ticker="SYMC"><units>230</units><name>Symantec Inc</name></symbol>
+  <symbol ticker="TXN"><units>190</units><name>Texas Instruments Inc. </name></symbol>
+  <symbol ticker="VRSN"><units>200</units><name>VeriSign, Inc.</name></symbol>
+  <symbol ticker="XRX"><units>240</units><name>Xerox Corp.</name></symbol>
+</symbols> 
